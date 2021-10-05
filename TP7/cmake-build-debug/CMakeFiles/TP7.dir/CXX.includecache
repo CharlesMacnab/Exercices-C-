@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP7/main.cpp
+iostream
+-
+point.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP7/point.h
+vector
+-
+cstring
+-
+cstdbool
+-
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP7/point.cpp
+point.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP7/point.h
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP7/point.h
+
