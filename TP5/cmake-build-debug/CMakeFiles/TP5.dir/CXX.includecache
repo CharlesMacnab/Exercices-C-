@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP5/Rational.cpp
+Rational.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP5/Rational.h
+iostream
+-
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP5/Rational.h
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP5/main.cpp
+iostream
+-
+Rational.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP5/Rational.h
+

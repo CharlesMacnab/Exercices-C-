@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Composition.dir/main.cpp.o CMakeFiles/Composition.dir/Point.cpp.o CMakeFiles/Composition.dir/Vehicle.cpp.o  -o Composition 
