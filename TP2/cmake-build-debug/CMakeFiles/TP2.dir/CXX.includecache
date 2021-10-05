@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP2/main.cpp
+iostream
+-
+point.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP2/point.h
+cstdlib
+-
+ctime
+-
+cmath
+-
+tic-tac-toe.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP2/tic-tac-toe.h
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP2/point.cpp
+point.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP2/point.h
+cmath
+-
+iostream
+-
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP2/point.h
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP2/tic-tac-toe.cpp
+tic-tac-toe.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP2/tic-tac-toe.h
+iostream
+-
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP2/tic-tac-toe.h
+
