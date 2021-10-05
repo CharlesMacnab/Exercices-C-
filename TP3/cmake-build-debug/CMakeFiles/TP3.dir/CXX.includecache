@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP3/TP3.cpp
+iostream
+-
+TP3.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP3/TP3.h
+cmath
+-
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP3/TP3.h
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP3/main.cpp
+iostream
+-
+TP3.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP3/TP3.h
+

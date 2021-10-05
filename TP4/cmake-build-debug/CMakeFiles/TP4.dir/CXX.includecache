@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP4/PGM.cpp
+iostream
+-
+PGM.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP4/PGM.h
+cstdlib
+-
+fstream
+-
+sstream
+-
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP4/PGM.h
+iostream
+-
+
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP4/main.cpp
+iostream
+-
+PGM.h
+/mnt/c/Users/charl/Desktop/TAF/CIR2/C++/Programmes/TP4/PGM.h
+ctime
+-
+
